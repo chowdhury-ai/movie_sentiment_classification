@@ -184,3 +184,6 @@ models/
 # Data
 data/
 local_s3/
+
+# Params
+params.yaml
