@@ -182,7 +182,7 @@ credentials.txt
 models/
 
 # Data
-data/
 local_s3/
+
 
 
