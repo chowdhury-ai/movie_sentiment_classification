@@ -16,7 +16,7 @@ async-timeout==5.0.1
 asyncssh==2.20.0
 atpublic==5.1
 attrs==25.3.0
-awscli==1.38.36
+awscli==1.25.73
 backoff==2.2.1
 billiard==4.2.1
 binaryornot==0.4.4
