@@ -177,3 +177,10 @@ cython_debug/
 
 # Credentials
 credentials.txt
+
+# Models
+models/
+
+# Data
+data/
+local_s3/
