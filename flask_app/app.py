@@ -89,7 +89,7 @@ repo_name = "movie_sentiment_classification"
 
 # Set up MLflow tracking URI
 mlflow.set_tracking_uri(f'{dagshub_url}/{repo_owner}/{repo_name}.mlflow')
--------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------
 
 # Initialize Flask app
 app = Flask(__name__)
